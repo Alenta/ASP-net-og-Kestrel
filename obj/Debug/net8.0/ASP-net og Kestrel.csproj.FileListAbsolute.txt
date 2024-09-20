@@ -1,0 +1,26 @@
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\bin\Debug\net8.0\appsettings.json
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\bin\Debug\net8.0\ASP-net og Kestrel.exe
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\bin\Debug\net8.0\ASP-net og Kestrel.deps.json
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\bin\Debug\net8.0\ASP-net og Kestrel.runtimeconfig.json
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\bin\Debug\net8.0\ASP-net og Kestrel.dll
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\bin\Debug\net8.0\ASP-net og Kestrel.pdb
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\ASP-net og Kestrel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\ASP-net og Kestrel.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\ASP-net og Kestrel.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\ASP-net og Kestrel.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\ASP-net og Kestrel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\staticwebassets\msbuild.ASP-net og Kestrel.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP-net og Kestrel.props
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP-net og Kestrel.props
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP-net og Kestrel.props
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\scopedcss\bundle\ASP-net og Kestrel.styles.css
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\ASP-net og Kestrel.dll
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\refint\ASP-net og Kestrel.dll
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\ASP-net og Kestrel.pdb
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\ASP-net og Kestrel.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\ref\ASP-net og Kestrel.dll
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\bin\Debug\net8.0\ASP-net og Kestrel.staticwebassets.runtime.json

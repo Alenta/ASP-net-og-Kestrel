@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "IwvJ/ztxSJUxLxWBK3rsiRoiPKnUpt5DZ4Dy1h62h2c=",
+  "Source": "ASP-net og Kestrel",
+  "BasePath": "_content/ASP-net og Kestrel",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASP-net og Kestrel\\wwwroot",
+      "Source": "ASP-net og Kestrel",
+      "ContentRoot": "C:\\Users\\marti\\OneDrive\\Skrivebord\\Kode Test\\C#\\ASP-net og Kestrel\\wwwroot\\",
+      "BasePath": "_content/ASP-net og Kestrel",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\marti\\OneDrive\\Skrivebord\\Kode Test\\C#\\ASP-net og Kestrel\\wwwroot\\index.html",
+      "SourceId": "ASP-net og Kestrel",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marti\\OneDrive\\Skrivebord\\Kode Test\\C#\\ASP-net og Kestrel\\wwwroot\\",
+      "BasePath": "_content/ASP-net og Kestrel",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\marti\\OneDrive\\Skrivebord\\Kode Test\\C#\\ASP-net og Kestrel\\wwwroot\\style.css",
+      "SourceId": "ASP-net og Kestrel",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marti\\OneDrive\\Skrivebord\\Kode Test\\C#\\ASP-net og Kestrel\\wwwroot\\",
+      "BasePath": "_content/ASP-net og Kestrel",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}

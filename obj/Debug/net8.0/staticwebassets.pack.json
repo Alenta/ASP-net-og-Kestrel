@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\marti\\OneDrive\\Skrivebord\\Kode Test\\C#\\ASP-net og Kestrel\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\marti\\OneDrive\\Skrivebord\\Kode Test\\C#\\ASP-net og Kestrel\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ASP-net og Kestrel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ASP-net og Kestrel.props",
+      "PackagePath": "build\\ASP-net og Kestrel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ASP-net og Kestrel.props",
+      "PackagePath": "buildMultiTargeting\\ASP-net og Kestrel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ASP-net og Kestrel.props",
+      "PackagePath": "buildTransitive\\ASP-net og Kestrel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
