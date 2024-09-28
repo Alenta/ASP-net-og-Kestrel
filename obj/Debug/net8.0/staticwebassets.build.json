@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IwvJ/ztxSJUxLxWBK3rsiRoiPKnUpt5DZ4Dy1h62h2c=",
+  "Hash": "EsWJG2gYWCwMPlZNGQon8ipOFF/LPk0hqTaAMa0ET+A=",
   "Source": "ASP-net og Kestrel",
   "BasePath": "_content/ASP-net og Kestrel",
   "Mode": "Default",
@@ -34,6 +34,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\marti\\OneDrive\\Skrivebord\\Kode Test\\C#\\ASP-net og Kestrel\\wwwroot\\main.js",
+      "SourceId": "ASP-net og Kestrel",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marti\\OneDrive\\Skrivebord\\Kode Test\\C#\\ASP-net og Kestrel\\wwwroot\\",
+      "BasePath": "_content/ASP-net og Kestrel",
+      "RelativePath": "main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.js"
     },
     {
       "Identity": "C:\\Users\\marti\\OneDrive\\Skrivebord\\Kode Test\\C#\\ASP-net og Kestrel\\wwwroot\\style.css",

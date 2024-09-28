@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP-net og Kestrel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ae5159d56cab03dd34baa9179b93da8f409aaa0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP-net og Kestrel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP-net og Kestrel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

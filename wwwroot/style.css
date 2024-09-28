@@ -1,3 +1,18 @@
 body {
-  background-color: darkslategray;
+  margin: 0;
+  color: white;
+  background-color: rgb(39, 42, 42);
+}
+h2 {
+  text-align: center;
+  margin-left: 25px;
+}
+
+.topstuff {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.topstuff .blockdisplay {
+  display: block;
 }

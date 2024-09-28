@@ -4,9 +4,47 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
-    <title>Document</title>
+    <title>Simple API Page</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script defer>
+      function loadDoc() {
+        $.get("/newfact");
+        $.get("../catfact.txt", function (data) {
+          console.log(data);
+
+          const para = document.createElement("p");
+          para.setAttribute("class", "deletable");
+          const node = document.createTextNode(data);
+          para.appendChild(node);
+          const element = document.getElementById("factbox");
+          element.appendChild(para);
+          element.innerHtml = data;
+        });
+      }
+    </script>
+    <script defer>
+      function clearFacts() {
+        var deletable = document.getElementsByClassName("deletable");
+        console.log("there are " + deletable.length + " facts to delete");
+        while (deletable[0]) {
+          deletable[0].parentNode.removeChild(deletable[0]);
+        }
+      }
+    </script>
   </head>
-  <body>
-    <h1>Testing static files</h1>
+  <body onload="loadDoc()">
+    <div class="topstuff">
+      <div class="blockDisplay">
+        <h2>Cat facts!</h2>
+        <div></div>
+        <div>
+          <button type="button" onclick="loadDoc()">Get Cat Facts!</button>
+          <button type="button" onclick="clearFacts()">Clear facts</button>
+        </div>
+        <p id="factbox">
+          Catfacts should appear here, though they may be pretty bad:
+        </p>
+      </div>
+    </div>
   </body>
 </html>

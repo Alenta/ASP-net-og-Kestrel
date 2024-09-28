@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
+      "Id": "C:\\Users\\marti\\OneDrive\\Skrivebord\\Kode Test\\C#\\ASP-net og Kestrel\\wwwroot\\main.js",
+      "PackagePath": "staticwebassets\\main.js"
+    },
+    {
       "Id": "C:\\Users\\marti\\OneDrive\\Skrivebord\\Kode Test\\C#\\ASP-net og Kestrel\\wwwroot\\style.css",
       "PackagePath": "staticwebassets\\style.css"
     },

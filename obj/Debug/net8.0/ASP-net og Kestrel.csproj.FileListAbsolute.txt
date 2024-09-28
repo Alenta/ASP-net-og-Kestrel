@@ -24,3 +24,4 @@ C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net
 C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\ASP-net og Kestrel.genruntimeconfig.cache
 C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\ref\ASP-net og Kestrel.dll
 C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\bin\Debug\net8.0\ASP-net og Kestrel.staticwebassets.runtime.json
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\ASP-net og Kestrel\obj\Debug\net8.0\ASP-net og Kestrel.sourcelink.json
